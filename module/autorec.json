@@ -12814,7 +12814,7 @@
 		},
 		{
 			"id": "54",
-			"label": "Flame Tongue",
+			"label": "Searing Blade",
 			"levels3d": {
 				"enable": false,
 				"type": "",
@@ -13052,7 +13052,7 @@
 				"name": "PF2e Animations",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Flame Tongue",
+				"label": "Searing Blade",
 				"menu": "melee"
 			}
 		},
@@ -70535,7 +70535,7 @@
 		},
 		{
 			"id": "302",
-			"label": "Ray of Enfeeblement",
+			"label": "Enfeeble",
 			"levels3d": {
 				"enable": false,
 				"type": "",
@@ -70747,7 +70747,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Ray of Enfeeblement",
+				"label": "Enfeeble",
 				"menu": "range"
 			}
 		},
@@ -73816,7 +73816,7 @@
 		},
 		{
 			"id": "317",
-			"label": "Tanglefoot",
+			"label": "Tangle Vine",
 			"levels3d": {
 				"enable": false,
 				"type": "",
@@ -74029,13 +74029,13 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Tanglefoot",
+				"label": "Tangle Vine",
 				"menu": "range"
 			}
 		},
 		{
 			"id": "318",
-			"label": "Tanglefoot Bag",
+			"label": "Glue Bomb",
 			"levels3d": {
 				"enable": false,
 				"type": "",
@@ -74248,7 +74248,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Tanglefoot Bag",
+				"label": "Glue Bomb",
 				"menu": "range"
 			}
 		},
@@ -75782,7 +75782,7 @@
 		},
 		{
 			"id": "326",
-			"label": "Vampiric Touch",
+			"label": "Vampiric Feast",
 			"levels3d": {
 				"type": "explosion",
 				"data": {
@@ -75961,7 +75961,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Vampiric Touch",
+				"label": "Vampiric Feast",
 				"menu": "range"
 			}
 		},
@@ -77415,7 +77415,7 @@
 		},
 		{
 			"id": "334",
-			"label": "Animate Dead",
+			"label": "Summon Undead",
 			"levels3d": {
 				"enable": false,
 				"type": "",
@@ -77637,7 +77637,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 14,
 				"moduleVersion": "2.7.0",
-				"label": "Animate Dead",
+				"label": "Summon Undead",
 				"menu": "ontoken"
 			}
 		},
@@ -80346,7 +80346,7 @@
 		},
 		{
 			"id": "348",
-			"label": "Chill Touch",
+			"label": "Void Warp",
 			"levels3d": {
 				"enable": false,
 				"type": "",
@@ -80536,7 +80536,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Chill Touch",
+				"label": "Void Warp",
 				"menu": "ontoken"
 			}
 		},
@@ -87854,7 +87854,7 @@
 		},
 		{
 			"id": "384",
-			"label": "Inspire Competence",
+			"label": "Uplifting Overture",
 			"levels3d": {
 				"enable": false,
 				"type": "",
@@ -88047,7 +88047,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Inspire Competence",
+				"label": "Uplifting Overture",
 				"menu": "ontoken"
 			}
 		},
@@ -102320,7 +102320,7 @@
 		},
 		{
 			"id": "455",
-			"label": "Wild Shape",
+			"label": "Untamed Form",
 			"levels3d": {
 				"enable": false,
 				"type": "",
@@ -102510,7 +102510,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Wild Shape",
+				"label": "Untamed Form",
 				"menu": "ontoken"
 			}
 		},
@@ -103831,7 +103831,7 @@
 		},
 		{
 			"id": "463",
-			"label": "Burning Hands",
+			"label": "Breathe Fire",
 			"macro": {
 				"enable": true,
 				"playWhen": "2",
@@ -104003,7 +104003,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Burning Hands",
+				"label": "Breathe Fire",
 				"menu": "templatefx"
 			}
 		},
@@ -105603,7 +105603,7 @@
 		},
 		{
 			"id": "473",
-			"label": "Entangle",
+			"label": "Entangling Flora",
 			"macro": {
 				"enable": false
 			},
@@ -105773,7 +105773,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Entangle",
+				"label": "Entangling Flora",
 				"menu": "templatefx"
 			}
 		},
@@ -108482,7 +108482,7 @@
 		},
 		{
 			"id": "489",
-			"label": "Sound Burst",
+			"label": "Noise Blast",
 			"macro": {
 				"enable": false
 			},
@@ -108651,13 +108651,13 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Sound Burst",
+				"label": "Noise Blast",
 				"menu": "templatefx"
 			}
 		},
 		{
 			"id": "490",
-			"label": "Splash of Art",
+			"label": "Creative Splash",
 			"macro": {
 				"enable": false
 			},
@@ -108826,7 +108826,7 @@
 				"name": "PF2e Animation Macros",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Splash of Art",
+				"label": "Creative Splash",
 				"menu": "templatefx"
 			}
 		},
@@ -114553,7 +114553,7 @@
 		},
 		{
 			"id": "530",
-			"label": "Dimensional Anchor",
+			"label": "Planar Tether",
 			"menu": "aefx",
 			"secondary": {
 				"enable": false,
@@ -114682,7 +114682,7 @@
 				"name": "PF2e Animations",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Dimensional Anchor",
+				"label": "Planar Tether",
 				"menu": "aefx"
 			}
 		},
@@ -118766,7 +118766,7 @@
 		},
 		{
 			"id": "560",
-			"label": "Endure Elements",
+			"label": "Environmental Endurance",
 			"menu": "aefx",
 			"secondary": {
 				"enable": false,
@@ -118895,7 +118895,7 @@
 				"name": "PF2e Animations",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Endure Elements",
+				"label": "Environmental Endurance",
 				"menu": "aefx"
 			}
 		},
@@ -119306,7 +119306,7 @@
 		},
 		{
 			"id": "564",
-			"label": "Feather Fall",
+			"label": "Gentle Landing",
 			"menu": "aefx",
 			"secondary": {
 				"enable": false,
@@ -119435,7 +119435,7 @@
 				"name": "PF2e Animations",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Feather Fall",
+				"label": "Gentle Landing",
 				"menu": "aefx"
 			}
 		},
@@ -122069,7 +122069,7 @@
 		},
 		{
 			"id": "584",
-			"label": "Inspire Defense",
+			"label": "Rallying Anthem",
 			"activeEffectType": "ontoken",
 			"menu": "aefx",
 			"macro": {
@@ -122203,7 +122203,7 @@
 				"name": "PF2e Animations",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Inspire Defense",
+				"label": "Rallying Anthem",
 				"menu": "aefx"
 			}
 		},
@@ -122618,7 +122618,7 @@
 		},
 		{
 			"id": "588",
-			"label": "Mage Armor",
+			"label": "Mystic Armor",
 			"activeEffectType": "ontoken",
 			"menu": "aefx",
 			"macro": {
@@ -122749,7 +122749,7 @@
 				}
 			},
 			"metaData": {
-				"label": "Mage Armor",
+				"label": "Mystic Armor",
 				"menu": "aefx",
 				"name": "PF2e Animations",
 				"moduleVersion": "2.7.4",
@@ -127051,7 +127051,7 @@
 		},
 		{
 			"id": "620",
-			"label": "Spell Effect: Inspire Courage",
+			"label": "Spell Effect: Courageous Anthem",
 			"activeEffectType": "ontoken",
 			"menu": "aefx",
 			"macro": {
@@ -127185,7 +127185,7 @@
 				"name": "PF2e Animations",
 				"version": 294,
 				"moduleVersion": "2.9.4",
-				"label": "Spell Effect: Inspire Courage",
+				"label": "Spell Effect: Courageous Anthem",
 				"menu": "aefx"
 			},
 			"advanced": {
@@ -128306,7 +128306,7 @@
 		},
 		{
 			"id": "629",
-			"label": "Wild Shape",
+			"label": "Untamed Form",
 			"menu": "aefx",
 			"secondary": {
 				"enable": false,
@@ -128436,7 +128436,7 @@
 				"name": "PF2e Animations",
 				"version": 12,
 				"moduleVersion": "2.6.6",
-				"label": "Wild Shape",
+				"label": "Untamed Form",
 				"menu": "aefx"
 			}
 		},
