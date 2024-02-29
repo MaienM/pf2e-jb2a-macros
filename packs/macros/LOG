@@ -6,3 +6,14 @@
 2024/02/20-13:43:29.968006 fffe73fff160 Delete type=0 #564
 2024/02/20-13:43:29.968098 fffe73fff160 Manual compaction at level-0 from '!macros!0O8rNzIVLo8p3tXj' @ 72057594037927935 : 1 .. '!macros!ya0hNKP4l4uOfoGJ' @ 0 : 0; will stop at (end)
 2024/02/20-13:43:29.968244 fffe73fff160 Manual compaction at level-1 from '!macros!0O8rNzIVLo8p3tXj' @ 72057594037927935 : 1 .. '!macros!ya0hNKP4l4uOfoGJ' @ 0 : 0; will stop at (end)
+=============== Feb 29, 2024 (CET) ===============
+01:13:03.419029 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+01:13:03.419219 version@stat F·[0 0 1] S·92KiB[0B 0B 92KiB] Sc·[0.00 0.00 0.00]
+01:13:03.419240 db@open opening
+01:13:03.419308 journal@recovery F·1
+01:13:03.419745 journal@recovery recovering @565
+01:13:03.420172 version@stat F·[0 0 1] S·92KiB[0B 0B 92KiB] Sc·[0.00 0.00 0.00]
+01:13:03.442838 db@janitor F·3 G·0
+01:13:03.442865 db@open done T·23.598945ms
+01:13:03.443621 db@close closing
+01:13:03.443664 db@close done T·44.868µs
